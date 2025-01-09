@@ -134,7 +134,7 @@ format:
     theme:
       light: [cosmo, style/math104.scss]
       dark: [cosmo, style/math104.scss, style/dark.scss]
-    linkcolor: "#0a5961" # Pantone Chambray Blue - Spring 2024, darkened to pass contrast checks
+    linkcolor: "#2d40c2" # Pantone Chambray Blue - Spring 2024, darkened to pass contrast checks
     toc: true
     code-copy: true
     code-overflow: wrap

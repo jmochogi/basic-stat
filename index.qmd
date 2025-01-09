@@ -1,10 +1,10 @@
 ---
-title: "MATH 104: Finite Mathematics"
+title: "MATH 155: Basic Statistical Reasoning"
 execute: 
   freeze: false
 ---
 
-This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.
+This page contains an outline of the topics, content, and assignments for the semester. Note that this schedule may change as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.
 
 ```{r}
 #| echo: false
@@ -15,8 +15,9 @@ library(googlesheets4)
 library(gt)
 library(tidyverse)
 gs4_deauth()
-d <- read_sheet("https://docs.google.com/spreadsheets/d/1YjPihpeGVk4cboGvEpKLOpcqZBf5P0tGClfsnKluuVs/edit?gid=0#gid=0")
+d <- read_sheet("https://docs.google.com/spreadsheets/d/1y-4I353I3IVQ2c5biw8CvQB0rF1fM09lviAIj43Zb0A/edit?usp=sharing")
 ```
+
 
 ```{r}
 #| echo: false
