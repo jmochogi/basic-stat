@@ -77,14 +77,10 @@ website:
             text: Homework 3
           - href: homework/hw4.qmd
             text: Homework 4            
-         # - href: labs/Lab_4.qmd
-          #  text: Lab 4
-          #- href: labs/lab-5.qmd
-            #text: Lab 5 
-          #- href: labs/lab-6.qmd
-            #text: Lab 6             
-          #- href: labs/lab-7.qmd
-            #text: Lab 7
+          #- href: homework/hw5.qmd
+           # text: Homework 5
+            
+            
       - section: "Problem Posing"
         contents:
           - href: problem-posing/pp1.qmd
@@ -126,7 +122,7 @@ website:
             text: Templates
   page-footer:
     right: 'This page is built with [Quarto](https://quarto.org/).'
-    left: "&copy; Copyright 2024, Joash Geteregechi"
+    left: "&copy; Copyright 2025, Joash Geteregechi"
     background: "#0a5961" # Pantone Chambray Blue - Spring 2024, darkened to pass contrast checks
 
 format:

@@ -6,7 +6,7 @@ format:
   pdf: default
 ---
 
-***Instructor:*** Dr. Joash Geteregechi 
+***Instructor:*** Dr. Joash Geteregechi
 
 ***Contact:*** [jgeteregechi\@ithaca.edu](mailto:jgeteregechi@ithaca.edu).
 
@@ -109,7 +109,7 @@ There will be a short quiz almost every week (usually Fridays) during the semest
 
 ### Homework
 
-Homework for this course will be done on an online homework platform known as Edfinity. To sign up for Edfinity, 
+Homework for this course will be done on an online homework platform known as [MyOpenMath](https://www.myopenmath.com). This is a free to use resource and access will be provided via Canvas and/or via the course website. 
 
 
 ### Midterm Exams
@@ -124,7 +124,7 @@ There will be two major group projects in this course. Each of the projects will
 
 The final "exam" will consist of a portfolio with the following:
 
--   An oral presentation: you will be given a problem to work on and write a clear solution, submit to canvas, then come in for a 10-15 min meeting to explain your work. Besides the instructor, there will be a few other students (3-5) in the presentation meeting. 
+-   An oral presentation: you will be given a problem to work on and write a clear solution, submit to canvas, then come in for a 10-15 min meeting to explain your work. Besides the instructor, there will be a few other students (3-5) in the presentation meeting.
 
 -   A one-page concept map illustrating the main ideas learned in the course and the relationships between them. I will provide examples of concept maps from other courses.
 
