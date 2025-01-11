@@ -3,8 +3,23 @@
 @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
 
 $font-family: "Rajdhani", sans-serif;
+$link-color: #0b8f5a;
+$hover-color: lighten($link-color, 15%);
+
 
 /*-- scss:rules --*/
+
+a{
+  color: $link-color;
+  text-decoration: none;
+  
+  &:hover{
+    color: $hover-color;
+    border-bottom: 0.1px solid $hover-color;
+  }
+  
+}
+
 
 .render-commit-push {
   padding: 0.5em 0.5em 0em 3em;

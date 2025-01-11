@@ -4,11 +4,11 @@ project:
 
 website:
   page-navigation: true
-  title: "MATH 104"
-  description: "Homepage for MATH 104 - Finite Mathematics, Fall 2024."
-  site-url: "https://jmochogi.github.io/finite-math/"
+  title: "MATH 155"
+  description: "Homepage for MATH 155 - Basic Statistical Reasoning, Spring 2025."
+  site-url: "https://jmochogi.github.io/basic-stat/"
 
-  repo-url: https://github.com/jmochogi/finite-math.git
+  repo-url: https://github.com/jmochogi/basic-stat.git
   repo-actions: [edit, issue]
 
   open-graph: true
@@ -17,8 +17,8 @@ website:
     image: "img/twitter-card.png"
 
   sidebar:
-    background: "#129daa" # Pantone Chambray Blue - Spring 2024, darkened to pass contrast checks
-    logo: "img/logo.jpeg"
+    background: "#0b8f5a" 
+    logo: "img/logo.png"
     pinned: true
     align: center
     tools:
@@ -123,14 +123,14 @@ website:
   page-footer:
     right: 'This page is built with [Quarto](https://quarto.org/).'
     left: "&copy; Copyright 2025, Joash Geteregechi"
-    background: "#0a5961" # Pantone Chambray Blue - Spring 2024, darkened to pass contrast checks
+    background: "#0b8f5a" # Pantone Chambray Blue - Spring 2024, darkened to pass contrast checks
 
 format:
   html:
     theme:
       light: [cosmo, style/math104.scss]
       dark: [cosmo, style/math104.scss, style/dark.scss]
-    linkcolor: "#2d40c2" # Pantone Chambray Blue - Spring 2024, darkened to pass contrast checks
+    linkcolor: "#2d40c2" 
     toc: true
     code-copy: true
     code-overflow: wrap
