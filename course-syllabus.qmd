@@ -1,6 +1,6 @@
 ---
 title: "MATH 155 - Basic Statistical Reasoning"
-subtitle: "Spring 2025"
+subtitle: "Mathematics Department - Spring 2025"
 format:
   html: default
   pdf: default
