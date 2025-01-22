@@ -10,7 +10,7 @@ format:
 
 ***Contact:*** [jgeteregechi\@ithaca.edu](mailto:jgeteregechi@ithaca.edu).
 
-***Office Location:*** Williams Hall 311E. If you use the elevator, press 3R. If you use the staircase, enter the door written "Faculty Offices" on the third floor.
+***Office Location:*** Williams Hall 311E. If you use the elevator, press 3 (not 3R). If you use the staircase, enter the door written "Faculty Offices" on the third floor.
 
 ***Open Hours:*** Mon 1:00-2:00 pm, Fri 10.00 - 11:00 am, or by appointment: [click here](https://calendly.com/jmochogi/20min).
 
@@ -122,13 +122,14 @@ There will be two major group projects in this course. Each of the projects will
 
 ### Final Exam
 
-The final "exam" will consist of a portfolio with the following:
+The final "exam" (due on ) will consist of a portfolio with the following:
 
 -   An oral presentation: you will be given a problem to work on and write a clear solution, submit to canvas, then come in for a 10-15 min meeting to explain your work. Besides the instructor, there will be a few other students (3-5) in the presentation meeting.
 
 -   A one-page concept map illustrating the main ideas learned in the course and the relationships between them. I will provide examples of concept maps from other courses.
 
 -   An essay (600 to 800 words) reflecting on your main takeaways from the course and how you would apply the knowledge gained in your field or other real-life situations.
+
 
 ### Grading Policy
 
