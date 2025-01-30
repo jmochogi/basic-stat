@@ -76,7 +76,7 @@ For most of our readings, we will use the following open-source textbooks:
 
 ### Computing:
 
--   **Tinker Plots:** We will use Tinker Plots software for data analysis. Download the software from https://www.tinkerplots.com then activate the licence using xxxx (provided by instructor). 
+-   **Tinker Plots:** We will use Tinker Plots software for data analysis. Download the software from https://www.tinkerplots.com. You will need to purchase the licence. It costs $11. 
 
 -   **Excel:** We will use MS excel for some parts of the course. No prior knowledge of this software is required.
 
