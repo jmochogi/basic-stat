@@ -1,5 +1,177 @@
 ---
 title: "First Project"
+format:
+  html: default
+  pdf: default
 ---
 
-Come back later!
+# Project Overview
+
+The goal of this project is for you to demonstrate proficiency in the material we have covered in this class (and beyond, if you like) and apply them to a "real-life" scenario involving,
+
+- Choosing a research topic and questions to explore
+- Designing a study for your chosen topic
+  - Collecting and recording data
+  - Analyzing the data using both numerical summaries and visualizations
+- Writing a report about your findings and conclusions
+
+
+
+
+# Research Topic and Questions
+
+Your research topic is a short statement that describes the general area of interest. Ideally, your topic should be no longer than 15 words. It should be broad enough to allow for multiple research questions to be asked, but specific enough to give a clear idea of what you are interested in. For example, if you are interested in the relationship between income and happiness, your research topic could be "**Predictors of happiness among adults in the Ithaca area of New York State**." This topic could then be used to generate multiple research questions, such as
+- Is higher income associated with higher happiness scores?
+- How does the relationship between income and happiness vary by age and gender?
+
+# Study Design
+
+Your group will design an observational study to answer your research questions. This means that you will not be conducting an experiment, but rather collecting data without administering any treatments (interventions). You will need to decide on the following aspects of your study:
+
+- **Population**: Who are you interested in studying? This could be a specific Island or a specific city within the Islands.
+- **Sample**: How will you collect your data? What sample size and sampling strategy (simple random, stratified, cluster, etc.) will you use and why?
+- **Variables**: What variables will you collect data on? What are the predictor variables and what is the response variable? How will you measure these variables? What are the units of measurement?
+- **Data Collection**: How will you collect your data? Will you use a survey? What questions will you ask in the survey? How will you ensure that your data is reliable and valid?
+- **Data Analysis**: What statistical methods will you use to analyze your data? What visualizations will you create? How will you link these analyses together to tell a coherent story?
+
+# The Report
+
+The final report should be a polished document that clearly communicates your research topic, questions, data, analyses, and results. The report should be written in a clear, concise, and professional manner. It should be free of grammatical errors and typos. The report should also include a title page with the title of your project, the names of all team members, and the date. A sample completed report will be provided.
+
+
+# Project Timeline
+
+The five milestones for this project are as follows:
+
+1.  Milestone 1 - Project proposal.
+2.  Milestone 2 - A first draft of your project write-up. 
+3.  Milestone 3 - Peer review, on another team's first project.
+4.  Milestone 4 - A final completed project report.
+5.  Milestone 5 - Presentation with slides summarizing key points and findings of your project.
+
+## Milestone 1 - Proposal {#project-proposal}
+
+There are two main purposes of the project proposal:
+
+-   To help you think about the project early, so you can get a head start on finding data, reading relevant literature, thinking about the questions you wish to answer, etc.
+-   To ensure that the data you wish to analyze, methods you plan to use, and the scope of your analysis are feasible and will allow you to be successful for this project.
+
+The project proposal will be due roughly three days after the project is assigned. Since the proposal is about a study not yet done, it should be written in **future tense**. It must contain the following details:
+
+1.  **Team members and their roles**: List the names of all team members and their roles in the project. Roles can include the following and multiple members can take on the same role: Data collection, Data analysis (performing the analyses in Tinker Plots), Report writing (e.g., abstract, introduction, literature review, findings, conclusion), Proof reading and typo/grammar checking, Team leader (e.g., setting up meetings, follow up, communicate with professor), etc.
+
+2.  **Research topic and Questions**: Refer the earlier note on what the topic and questions should look like. You should have at least two research questions for your research project.
+
+3.  **Data**: Describe your data collection technique. This could be a survey. You should describe your variables and how you plan to measure them. You should also describe the data collection process including the sample size and sampling strategy. 
+
+4.  **Analysis plan**: Describe the analyses you plan to conduct. This should include the types of visualizations you plan to create, the numerical summaries you plan to calculate. You should also describe how you plan to link these analyses together to tell a coherent story.
+
+Instructions and grading criteria for this milestone are outlined in the grading rubric for [Milestone 1](https://jmochogi.github.io/intermediate-stats/project/first_project.html#m_1---project-proposal).
+
+## Milestone 2 - First Draft
+
+Your project draft is a completed project, that we will use to obtain feedback from the professor and peers in class. Since the report is about the study that is already done, you should write it in **past tense**. The draft should include the following sections:
+
+1.  **Abstract**: This section should provide a brief overview of the research topic, questions, data, and analyses you are conducting. It should also provide a brief overview of the results you have obtained. Think of the abstract as an executive summary of your work that someone can read and understand without reading the whole report. You should write the abstract last, after you have completed the rest of the report. Be sure to take a look at the sample abstract provided in the sample report.
+
+2.  **Introduction**: This section should introduce the research topic and questions you are addressing. It should also provide a brief justification of the topic of choice. In other words, why should people care? Why is it important to explore your topic? It is helpful to cite a few sources to help support your case.
+
+3.  **Literature Review**: This section should provide a brief overview of the literature related to your research topic. You should cite at least 5 sources and synthesize their methods and findings in relation to your own research. Guidelines for writing an effective literature review can be found [here](https://www.scribbr.com/methodology/literature-review/).
+
+4.  **Methods**: This section should describe the data you are using and the analyses you plan to conduct. It should include the following subsections:
+
+    -   **Study Participants**: How many participants did you use? What was your target population? Describe the demographic characteristics of the study participants (e.g., age, gender, etc).
+    
+    -   **Data Collection Procedures**: You should also describe the data collection process, describe the variables of interest and specify predictor and response variables and how they were measured. You should also provide a detailed discussion of the sampling strategies used and justify your choices accordingly.
+
+5.  **Data Analysis and Results**: This is one of the most important and heavily weighted parts of your project. The analyses should be sound and their interpretations accurate. The analyses should demonstrate a thorough understanding of statistical concepts learned in this course (and beyond, if you like). Your data analyses must include both numerical statistics and data visualizations. Interpretations of visualizations created as well as the models created must be made in a coherent manner and in the context of the research questions. This is important in ensuring that the questions asked in your study get answers.
+
+6.  **Conclusion**: This section should summarize the research questions you addressed, the data you used, the analyses you conducted, and the results you obtained. Findings of your study must be tied back to those reported in the literature review; for example, do your findings concur with previous studies or do they contradict them? It should also discuss the implications of your results and suggest directions for future research. Be sure to state any limitations of your study and what would be done differently if you were to do the study again.
+
+7.  **References**: This section should list all the sources you cited in your report. Use [APA format](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html) for your references.
+
+Instructions and grading criteria for this milestone are outlined in [Milestone 2: Proposal](/project/2-proposal.html).
+
+## Milestone 3 - Peer review {#peer-review}
+
+Critically reviewing others' work is a crucial part of the scientific process, and MATH 155 is no exception. Your team will be assigned at least one project from another team to review. Team members should read individually before meeting during which the team will come up with collective feedback for the other team. The peer review process will be double blinded, meaning that you will not know who is reviewing your project, and you will not know whose project you are reviewing. This feedback is intended to help you create a high quality final project, as well as give you experience reading and constructively critiquing the work of others.
+
+Instructions and grading criteria for this milestone are outlined in [Milestone 3: Peer review](/project/3-peer-review.html).
+
+## Milestone 4 - Final Write up
+
+The final write-up is the culmination of your project. It should include all the sections of the first draft, but with revisions based on the feedback you received from your peers and the professor. The final write-up should be a polished document that clearly communicates your research topic, questions, data, analyses, and results. The final write-up should be written in a clear, concise, and professional manner. It should be free of grammatical errors and typos. The final write-up should also include a title page with the title of your project, the names of all team members, and the date.
+
+Instructions and grading criteria for this milestone are outlined in [Milestone 4: Writeup + presentation](/project/4-writeup-presentation.html).
+
+## Milestone 5 - Presentation
+
+The final milestone is a presentation of your project. The presentation should be about 10 minutes long and should include slides that summarize the key points and findings of your project. The presentation should be clear and concise. The presentation will be graded on the clarity of the slides, the clarity of the presentation, and the ability to communicate your research topic, questions, data, analyses, and results to an audience. The presentation will be followed by a question and answer session with the professor and your peers.
+
+# Grading
+
+## Overall grading
+
+The overall grade breakdown by milestone ($M_i$) is as follows:
+
+| Total                         | 100 pts |
+|-------------------------------|---------|
+| **M1: Project Proposal**      | 10 pts  |
+| **M2: First Draft**           | 20 pts  |
+| **M3: Peer Review**           | 10 pts  |
+| **M4: Final Writeup**         | 40 pts  |
+| **M5: Slides + Presentation** | 10 pts  |
+| **Collaboration & Teamwork**  | 10 pts  |
+
+## Grading Milestone details
+
+### $M_1$ - Project Proposal
+
+-   ***Completion (0-2pts)*** - Did the team complete ***all parts*** of the proposal as required?
+-   ***Content (0-2pts)*** - What is the quality of research and/or question and relevancy of data to those questions?
+-   ***Correctness (0-2pts)*** - Are the proposed statistical procedures sound/reasonable for the stated questions?
+-   ***Communication & Writing (0-2pts)*** - What is the quality of the statistical presentation, writing, and explanations?
+-   ***Creativity and Critical Thought (0-2pts)*** - Is the project carefully thought out? Does it appear that time and effort went into the planning of the project?
+
+### $M_2$ - First Draft
+
+-   ***Abstract (0-2 pts)*** - Does the abstract provide a brief overview of the research topic, questions, data, and analyses you are conducting?
+-   ***Introduction (0-2 pts)*** - Does the introduction articulate the research topic and questions being addressed? Does it provide a brief overview of the data and a justification of the importance of the study?
+-   ***Literature Review (0-3 pts)*** - Does the literature review provide relevant in-text citations? Does it examine and synthesize the sources in context of the current study? Does it include at least 5 sources?
+-   ***Methods (0-3 pts)*** - Does the methods section describe the sample (participants) as required, the data, and the analysis methods used? Does it justify the choice of analysis methods? Does it describe the data cleaning processes?
+-   ***Data Analysis and Results (0-6 pts)*** - Are the analyses implemented correctly? Are the interpretations for ***both research questions*** done correctly and in context of the study? Do the analyses demonstrate a thorough understanding of statistical concepts learned in the course?
+-   ***Conclusion (0-2 pts)*** - Does the conclusion summarize the research questions you addressed, the data you used, the analyses you conducted, and the results you obtained? Does it discuss the implications of your results and suggest directions for future research?
+-   ***References (0-2 pts)*** - Are all the sources you cited in your report listed in the references section? Are they in APA format?
+
+### $M_3$ - Peer Review
+
+Peer reviews will be graded on the extent to which it ***comprehensively and constructively*** addresses the components of the reviewee’s team’s report.
+
+Only the team members participating in the review process are eligible for points for the peer review. Teams may choose to meet in-person or virtually. The team should submit a single review document that includes the following:
+
+-   ***Quality of feedback (0-3pts)*** - Did the team provide ***constructive and actionable*** feedback? Please note that actionable does not mean telling the reviewee team what to do, but rather providing feedback that the team can use to improve their work.
+-   ***Correctness (0-2pts)*** - Are the critiques provided sound and reasonable?
+-   ***Communication & Writing (0-2pts)*** - Is the feedback report understandable and free from grammatical errors and typos?
+-   ***Completion (0-2pts)*** - Did the team provide feedback for ***all sections*** of the report?
+
+### $M_4$ - Final Writeup
+
+The grading of the final write up follows the same grading criteria as Milestone 2 but gets additional points. To get maximum points on milestone 4, you should address the feedback given to you on your project draft by your peers and/or professor. If there is any feedback that you think does not need to be addressed, please provide a justification for why you think so.
+
+-   ***Abstract (0-4 pts)*** 
+-   ***Introduction (0-4 pts)*** 
+-   ***Literature Review (0-6 pts)*** 
+-   ***Methods (0-6 pts)*** 
+-   ***Data Analysis and Results (0-14 pts)***
+-   ***Conclusion (0-4 pts)*** 
+-   ***References (0-2 pts)***
+
+### $M_5$ - Presentation
+
+-   ***Slides (3 pts)*** - Are the slides clear, well-organized, and concise? Do they summarize the key points and findings of the project?
+-   ***Presentation (4 pts)*** - Is the presentation clear and does it show a thorough understanding of the material learned? Are speakers audible enough and facing the audience? Are they engaging and do they maintain eye contact with the audience?
+-   ***Question and Answer (Q&A) (3 pts)*** - How well does the team answer questions about their project? Are they able to communicate their research topic, questions, data, analyses, and results to an audience?
+
+## Submission
+
+Submissions for all milestones should be made through Canvas. You will see the assignments created in Canvas for each milestone with more detailed instructions.
