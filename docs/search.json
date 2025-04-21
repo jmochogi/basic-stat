@@ -665,5 +665,82 @@
       "Projects",
       "Project 2"
     ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html",
+    "href": "exam-review/exam-2-review.html",
+    "title": "Exam 2 Review",
+    "section": "",
+    "text": "For each of the following scenarios, identify the population, sample, parameter, and the statistic. Then, state the null and alternative hypotheses in words and in symbols:\n\nPreviously, an organization reported that teenagers spent 4.5 hours per week, on average, on the phone. The organization thinks that, currently, the mean is higher. Fifteen randomly chosen teenagers were asked how many hours per week they spend on the phone. The sample mean was 4.75 hours with a sample standard deviation of 2.0.  \nOnly about 20% of all people can wiggle their ears. Is this percent different for millionaires? Of the 339 millionaires surveyed, 58 could wiggle their ears.  \nOver the past few decades, public health officials have examined the link between weight concerns and teen girls’ smoking. Researchers surveyed a group of 273 randomly selected teen girls living in Massachusetts (between 12 and 15 years old). After four years the girls were surveyed again. Sixty-three said they smoked to stay thin.",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-1",
+    "href": "exam-review/exam-2-review.html#question-1",
+    "title": "Exam 2 Review",
+    "section": "",
+    "text": "For each of the following scenarios, identify the population, sample, parameter, and the statistic. Then, state the null and alternative hypotheses in words and in symbols:\n\nPreviously, an organization reported that teenagers spent 4.5 hours per week, on average, on the phone. The organization thinks that, currently, the mean is higher. Fifteen randomly chosen teenagers were asked how many hours per week they spend on the phone. The sample mean was 4.75 hours with a sample standard deviation of 2.0.  \nOnly about 20% of all people can wiggle their ears. Is this percent different for millionaires? Of the 339 millionaires surveyed, 58 could wiggle their ears.  \nOver the past few decades, public health officials have examined the link between weight concerns and teen girls’ smoking. Researchers surveyed a group of 273 randomly selected teen girls living in Massachusetts (between 12 and 15 years old). After four years the girls were surveyed again. Sixty-three said they smoked to stay thin.",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-2",
+    "href": "exam-review/exam-2-review.html#question-2",
+    "title": "Exam 2 Review",
+    "section": "Question 2",
+    "text": "Question 2\nThe recidivism rate for convicted sex offenders is15%. A warden suspects that this percent is different if the sex offender is also a drug addict. Of the 384 convicted sex offenders who were also drug addicts, 50 of them became repeat offenders. The goal is to perform a statistical hypothesis test to check whether the warden’s belief could be true.\n\nSelect the correct null model from the models below. For the model that you did not choose, explain why it is incorrect. \n \nAfter running 1000 simulations, the following dot plot was made to visualize the data. What statistics terminology is used to refer to this dot plot? Describe the features of the dot plot and explain how they are linked to the scenario.  \n \nSuppose that only 20 participants were studied instead of 384, how different would the dot plot in part (b) above look? Why?  \nIn the dot plot in part (b) above, there are 790 dots above 13%. Given the this information, what conclusion can you make? Specifically, what can you say about the warden’s claim that the percent of recidivism is different if the sex offender is also a drug addict? Be sure to explain all work clearly and provide evidence to support your work.",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-3",
+    "href": "exam-review/exam-2-review.html#question-3",
+    "title": "Exam 2 Review",
+    "section": "Question 3",
+    "text": "Question 3\nA recent Pew Research survey reported that 32% of Americans support deportation of all people living in the USA illegally. Suppose you conduct your own survey involving 500 randomly selected Americans and you find that 175 of them actually support the deportations.\nA journalist writing a news story on your survey picks up your preliminary findings and wants to use the headline “At least 35% of Americans support deportations of illegal residents”. However, you caution the journalist that you need time to finish your analysis via a formal hypothesis test.\n\nCalculate the proportion of Americans in the sample that support deportations. Why might the journalist’s headline be misleading?  \nState the null and alternative hypotheses for this scenario. \nThe null model below has errors. Point out the errors and state how you would fix them.\n \nBelow is a plot of 200 simulations for the above model. Use the graphic to estimate the P-value.\n \nWrite a conclusion for your hypothesis test. Be sure to interpret the results in context.",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-4",
+    "href": "exam-review/exam-2-review.html#question-4",
+    "title": "Exam 2 Review",
+    "section": "Question 4",
+    "text": "Question 4\n\nA CDC report on sleep deprivation rates shows that the proportion of California residents who reported insufficient rest or sleep during each of the preceding 30 days is 8.0%, while this proportion is 8.8% for Oregon residents. These data are based on simple random samples of 11,545 California and 4,691 Oregon residents. The goal is to perform a hypothesis test to check whether the proportion is higher for Oregon residents.  State the null and alternative hypothesis for this scenario and provide a step-by-step description of how you would run the test. Your description should use correct statistical terminology and provide enough level of detail that shows understanding of the concept being assessed. Your approach should be restricted to the methods and techniques learned in this course.",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-5",
+    "href": "exam-review/exam-2-review.html#question-5",
+    "title": "Exam 1 Review",
+    "section": "Question 5",
+    "text": "Question 5\nA random sample of registered voters nationally were asked whether they think it’s better to raise taxes on the rich or raise taxes on the poor. The survey also collected information on the political party affiliation of the respondents, their age, sex, and income (in $ per month).\n\nWhat data visualization would be appropriate to visualize the relationship between age and income? \nWhat data visualization would be appropriate to visualize the relationship between political party affiliation and opinion on tax policy? \nWhat data visualization would be appropriate to visualize the distribution of income? \nWhat data visualization would be appropriate to visualize the distribution of political party affiliation?",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
+  },
+  {
+    "objectID": "exam-review/exam-2-review.html#question-6",
+    "href": "exam-review/exam-2-review.html#question-6",
+    "title": "Exam 1 Review",
+    "section": "Question 6",
+    "text": "Question 6\nThe final exam scores of 11 introductory statistics students, arranged in ascending order, as as follows:  65, 68, 70, 72, 74, 75, 78, 80, 82, 85, 100.\n\nFind the mean, median, and mode. \nWhat is the standard deviation? What does the standard deviation tell you about the data? \nSuppose students that score above the 75th percentile get an A grade in the course, how many students got an A grade in the course? \nWould you consider the highest score in the class (i.e., 100) to be an outlier? Explain your answer. \nSketch a boxplot of the data. Interpret the distribution of the data based on the boxplot.",
+    "crumbs": [
+      "Exam review",
+      "Exam 2"
+    ]
   }
 ]
