@@ -9,86 +9,52 @@ format:
 
 For each of the following scenarios, identify the population, sample, parameter, statistic, variable, and data:
 
-a.  A study of 48 randomly selected teachers in a school district found that the average number of years of teaching experience was 15 years. Jennifer, one of the teachers in the study, had 20 years of teaching experience.
-\vspace{5cm}
-b.  An insurance company would like to determine the proportion of all medical doctors who have been involved in one or more malpractice lawsuits. The company selects 500 doctors at random from a professional directory and determines the number in the sample who have been involved in a malpractice lawsuit.
-\newpage
+a.  A study of 48 randomly selected teachers in a school district found that the average number of years of teaching experience was 15 years. Jennifer, one of the teachers in the study, had 20 years of teaching experience. \vspace{5cm}
+b.  An insurance company would like to determine the proportion of all medical doctors who have been involved in one or more malpractice lawsuits. The company selects 500 doctors at random from a professional directory and determines the number in the sample who have been involved in a malpractice lawsuit. \newpage
 
 ## Question 2
 
 Researchers studying the relationship between honesty, age and self-control conducted a study involving 160 children between the ages of 5 and 15. Participants reported their age, sex, and whether they were an only child or not. The researchers asked each child to toss a fair coin in private and to record the outcome (white or black) on a paper sheet, and said they would only reward children who report white.
 
-a.  Identify one research question for this study.
-\vspace{3cm}
-b.  Was the study experimental or observational? How do you know?
-\vspace{3cm}
+a.  Identify one research question for this study. \vspace{3cm}
+b.  Was the study experimental or observational? How do you know? \vspace{3cm}
 c.  The study’s findings can be summarized as follows: <br> *“Half the students were explicitly told not to cheat and the others were not given any explicit instructions. In the no instruction group probability of cheating was found to be uniform across groups based on child’s characteristics. In the group that was explicitly told to not cheat, girls were less likely to cheat, and while rate of cheating didn’t vary by age for boys, it decreased with age for girls.”* <br> How many variables were recorded for each subject in the study in order to conclude these findings? State the variables and classify each as qualitative (categorical) or quantitative (numerical).
 
 \newpage
+
 ## Question 3
 
 In a public health study on the effects of consumption of fruits and vegetables on psychological well-being in young adults, participants were *randomly* assigned to three groups: (1) diet-as-usual, (2) an ecological momentary intervention involving text message reminders to increase their fruits and vegetable consumption plus a voucher to purchase them, or (3) a fruit and vegetable intervention in which participants were given two additional daily servings of fresh fruits and vegetables to consume on top of their normal diet. Participants were asked to take a nightly survey on their smartphones. Participants were student volunteers at the University of Otago, New Zealand. At the end of the 14-day study, only participants in the third group showed improvements to their psychological well-being across the 14-days relative to the other groups.
 
-a. What type of study (experimental or observational) is this? Explain how you know. 
-\vspace{3cm}
-b. Identify the explanatory and response variables in this study.
-\vspace{2.5cm}
-c. Explain why participants were assigned to their groups randomly.
-\vspace{4cm}
-d. A newspaper article reporting on the study stated as follows:<br> *“The results of this study provide proof that giving young adults fresh fruits and vegetables to eat can have psychological benefits, even over a brief period of time.”* <br> How would you suggest revising this statement so that it can be supported by the study?
-\newpage
+a.  What type of study (experimental or observational) is this? Explain how you know. \vspace{3cm}
+b.  Identify the explanatory and response variables in this study. \vspace{2.5cm}
+c.  Explain why participants were assigned to their groups randomly. \vspace{4cm}
+d.  A newspaper article reporting on the study stated as follows:<br> *“The results of this study provide proof that giving young adults fresh fruits and vegetables to eat can have psychological benefits, even over a brief period of time.”* <br> How would you suggest revising this statement so that it can be supported by the study? \newpage
 
 ## Question 4
 
-Discuss a scenario of your own choosing that involves each of the following sampling methods. Do not copy the scenarios used in class or in the text.  
+Discuss a scenario of your own choosing that involves each of the following sampling methods. Do not copy the scenarios used in class or in the text.
 
-a. Simple random sampling:
-\vspace{5cm}
-b. Stratified sampling:
-\vspace{5cm}
-c. Cluster sampling:
-\vspace{5cm}
-d. Systematic sampling:
-\newpage
-
+a.  Simple random sampling: \vspace{5cm}
+b.  Stratified sampling: \vspace{5cm}
+c.  Cluster sampling: \vspace{5cm}
+d.  Systematic sampling: \newpage
 
 ## Question 5
 
-A random sample of registered voters nationally were asked whether they think it’s better to raise taxes on the rich or raise taxes on the poor. The survey also collected information on the political party affiliation of the respondents, their age, sex, and income (in $ per month).
+A random sample of registered voters nationally were asked whether they think it’s better to raise taxes on the rich or raise taxes on the poor. The survey also collected information on the political party affiliation of the respondents, their age, sex, and income (in \$ per month).
 
-a. What data visualization would be appropriate to visualize the relationship between age and income?
-\vspace{3cm}
-b. What data visualization would be appropriate to visualize the relationship between political party affiliation and opinion on tax policy?
-\vspace{3cm}
-c. What data visualization would be appropriate to visualize the distribution of income?
-\vspace{3cm}
-d. What data visualization would be appropriate to visualize the distribution of political party affiliation?
-\newpage
-
+a.  What data visualization would be appropriate to visualize the relationship between age and income? \vspace{3cm}
+b.  What data visualization would be appropriate to visualize the relationship between political party affiliation and opinion on tax policy? \vspace{3cm}
+c.  What data visualization would be appropriate to visualize the distribution of income? \vspace{3cm}
+d.  What data visualization would be appropriate to visualize the distribution of political party affiliation? \newpage
 
 ## Question 6
 
 The final exam scores of 11 introductory statistics students, arranged in ascending order, as as follows: <br> 65, 68, 70, 72, 74, 75, 78, 80, 82, 85, 100.
 
-a. Find the mean, median, and mode.
-\vspace{5cm}
-b. What is the standard deviation? What does the standard deviation tell you about the data?
-\newpage
-c. Suppose students that score above the 75th percentile get an A grade in the course, how many students got an A grade in the course?
-\vspace{4cm}
-d. Would you consider the highest score in the class (i.e., 100) to be an outlier? Explain your answer.
-\vspace{6cm}
-e. Sketch a boxplot of the data. Interpret the distribution of the data based on the boxplot.
-
-
-
-
-
-
-
-
-
-
-
-
-
+a.  Find the mean, median, and mode. \vspace{5cm}
+b.  What is the standard deviation? What does the standard deviation tell you about the data? \newpage
+c.  Suppose students that score above the 75th percentile get an A grade in the course, how many students got an A grade in the course? \vspace{4cm}
+d.  Would you consider the highest score in the class (i.e., 100) to be an outlier? Explain your answer. \vspace{6cm}
+e.  Sketch a boxplot of the data. Interpret the distribution of the data based on the boxplot.
